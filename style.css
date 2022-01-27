@@ -1,0 +1,38 @@
+
+.container {
+    background-color: #F1F6FD;
+    margin: 5px;
+}
+.blue1 {
+    background-color: #52C5EB;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex; 
+    padding: 10px;
+    margin: 10px;
+}
+.pink2 {
+    background-color: #D0A5B8;
+    justify-content: space-evenly;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+.white3 {
+    background-color: white;
+    justify-content: space-evenly;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+
+img {
+    height: 200px;
+    justify-content: space-around;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
